@@ -1,5 +1,6 @@
 # Como Rodar o Projeto
 Repositório do projeto criado no workshop de APIs Restfull com Django com o grupo LICA da Unimontes
+Documentação postman disponível em [https://documenter.getpostman.com/view/3596206/2sAYkAQhQK#e7c23650-8895-4204-a6ab-278c93e0be58](https://documenter.getpostman.com/view/3596206/2sAYkAQhQK#e7c23650-8895-4204-a6ab-278c93e0be58).
 
 ## **Pré-requisitos**
 Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
@@ -42,6 +43,3 @@ O servidor estará disponível em `http://127.0.0.1:8000/` (ou `http://localhost
 
 ---
 Agora o seu projeto está pronto para ser utilizado! 🎉
-
-## Documentação disponível em:
-`https://documenter.getpostman.com/view/3596206/2sAYkAQhQK#e7c23650-8895-4204-a6ab-278c93e0be58`
